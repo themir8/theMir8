@@ -1,5 +1,5 @@
 ## Hi, I'm Mirsaid
-<h1><a href="https://mirsaid.uz">Website</a></h1>
+<h1><a href="https://mirsaiduz.pythonanywhere.com/">Website</a></h1>
 
 <a href="https://github.com/uzbekcoder-max">
   <img align="left" alt="Mirsaid's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -8,7 +8,7 @@
   <img align="left" alt="Mirsaid's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/mirsaid.m8/">
-  <img align="left" alt="Bekhzod's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Mirsaid's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 <br/>
