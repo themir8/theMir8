@@ -1,10 +1,10 @@
 ## Hi, I'm Mirsaid
 <h1><a href="https://mirsaiduz.pythonanywhere.com/">Website</a></h1>
 
-<a href="https://github.com/uzbekcoder-max">
+<a href="https://github.com/mirsaid-mirzohidov">
   <img align="left" alt="Mirsaid's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/mirsaid">
+<a href="https://t.me/NextStepUp">
   <img align="left" alt="Mirsaid's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/mirsaid.m8/">
