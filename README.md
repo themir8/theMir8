@@ -49,9 +49,7 @@
 			</a>
 		</p>
 
-**mirsaid-mirzohidov repo visits**  [![Visits Badge](https://badges.pufler.dev/visits/mirsaid-mirzohidov/mirsaid-mirzohidov)](https://badges.pufler.dev)
-
-**mirsaid.uz repo visits** [![Visits Badge](https://badges.pufler.dev/visits/mirsaid-mirzohidov/mirsaid.uz)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mirsaid-mirzohidov/mirsaid-mirzohidov)](https://badges.pufler.dev)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirsaid-mirzohidov&show_icons=true&locale=en&layout=compact" alt="mirsaid-mirzohidov" /></p>
 
