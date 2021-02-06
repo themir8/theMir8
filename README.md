@@ -49,8 +49,6 @@
 			</a>
 		</p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/mirsaid-mirzohidov/mirsaid-mirzohidov)](https://badges.pufler.dev)
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirsaid-mirzohidov&show_icons=true&locale=en&layout=compact" alt="mirsaid-mirzohidov" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&locale=en" alt="mirsaid-mirzohidov" /></p>
