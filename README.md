@@ -21,7 +21,8 @@
 </details>
 
 
-- 🌱 I’m currently learning **Golang and Django**
+- 🌱 I’m currently learning Web Development Technologies in Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25" /> and <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/go.png" alt="html" style="vertical-align:top; margin:4px">
+ and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
