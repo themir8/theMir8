@@ -39,9 +39,9 @@ and Databases (PostgreSql).
 </p>
 <hr>
 
-<details><summary align="center" style="font-size:80px;">Languages and Tools: </summary>
-	<p align="center">
-    <br>
+<details>
+  <summary align="center"> <h3>Languages and Tools: </h3> </summary>
+<p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
