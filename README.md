@@ -9,6 +9,9 @@
 
 </a></p>
 
+- 🌱 I’m currently learning Web Development Technologies in Backend Django, Golang
+and Databases (PostgreSql).
+
 🚀 Some of my main projects:
 
 <details> 
@@ -19,11 +22,10 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
 </details>
+
 -  🤖 I work in Deloitte Robotics Spain
 
 - :bar_chart: I love Stats and make cool Dashboards
-- 🌱 I’m currently learning Web Development Technologies in Backend Django, Golang
-and Databases (PostgreSql).
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
