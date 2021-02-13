@@ -53,10 +53,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&locale=en" alt="mirsaid-mirzohidov" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" />
-
-<a href="https://github.com/DigitalEdu-uz/DigitalEdu" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz" alt="mirsaid.uz" /></a>
-
-<a href="https://github.com/mirsaid-mirzohidov/mirsaid.uz" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu" alt="DigitalEdu" /></a>
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
