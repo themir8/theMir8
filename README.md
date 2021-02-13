@@ -17,11 +17,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
-
 </details>
-
-- 🌱 I’m currently learning Web Development Technologies in Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="45" height="45" /> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="golang" width="45" height="45" />
- and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
+- 🌱 I’m currently learning Web Development Technologies in Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="45" height="45" /> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="45" height="45" />
+ and Databases (MongoDB). I like to use GCP for Cloud Solutions.
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
