@@ -35,12 +35,11 @@ and Databases (PostgreSql).
 <a href="https://t.me/Mirzakhidov_m" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" alt="mirsaid" style="vertical-align:top; margin:4px" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="mirsaid" style="vertical-align:top; margin:4px"/></a>
 <a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
-	<a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
+	<a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px" /></a>
 </p>
 <hr>
 
-<details>
-  <summary align="center"> <h3>Languages and Tools: </h3> </summary>
+<h3 align="center">Languages and Tools: </h3>
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -52,7 +51,6 @@ and Databases (PostgreSql).
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/go.png" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>
-</details>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirsaid-mirzohidov&show_icons=true&locale=en&layout=compact" alt="mirsaid-mirzohidov" /></p>
 
