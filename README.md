@@ -7,17 +7,21 @@
 <a href="https://t.me/theblog_uz">
     <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" />
 
-  </a></p>
+</a></p>
 
+🚀 Some of my main projects:
 
 <details> 
- <summary> - 🔭 I’m currently working on a Projects in Django: </summary>
+ <summary> -  🔭 I’m currently working on a Projects in Django and another Project with Golang and Postgresql: </summary>
 <br>
 	
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
 </details>
+-  🤖 I work in Deloitte Robotics Spain
+
+- :bar_chart: I love Stats and make cool Dashboards
 - 🌱 I’m currently learning Web Development Technologies in Backend Django, Golang
 and Databases (PostgreSql).
 
