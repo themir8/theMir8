@@ -2,15 +2,20 @@
 <h3 align="center">Back End developer in Uzbekistan</h3>
 
 <p align="center"><a href="https://github.com/mirsaid-mirzohidov">
-    <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=mirsaid-mirzohidov&style=for-the-badge&color=4A90E2&labelColor=222222" />
+    <img alt="Follow mirsaid-mirzohidov" src="https://img.shields.io/static/v1?label=Follow&message=mirsaid-mirzohidov&style=for-the-badge&color=4A90E2&labelColor=222222" />
   </a></p>
 
 
-- 🔭 I’m currently working on a Projects in Django:
-
+<details> 
+ <summary> - 🔭 I’m currently working on a Projects in Django: </summary>
+<br>
+	
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
+
+</details>
+
 
 - 🌱 I’m currently learning **Golang and Django**
 
