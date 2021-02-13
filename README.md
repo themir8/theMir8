@@ -12,6 +12,10 @@
 - 🌱 I’m currently learning Web Development Technologies in Backend Django, Golang
 and Databases (PostgreSql).
 
+- 💬 Ask me about **Python, Django or any tech related stuff**
+
+- 📫 How to reach me [mirzohidovm8@gmail.com](#connect-with-me)
+
 🚀 Some of my main projects:
 
 <details> 
@@ -27,9 +31,6 @@ and Databases (PostgreSql).
 
 - :bar_chart: I love Stats and make cool Dashboards
 
-- 💬 Ask me about **Python, Django or any tech related stuff**
-
-- 📫 How to reach me [mirzohidovm8@gmail.com](#connect-with-me)
 
 
 <h1 align="center" id="connect-with-me"> Connect with me: </h1>
