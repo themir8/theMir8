@@ -27,10 +27,6 @@ and Databases (PostgreSql).
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
 </details>
 
--  🤖 I work in Deloitte Robotics Spain
-
-- :bar_chart: I love Stats and make cool Dashboards
-
 
 
 <h1 align="center" id="connect-with-me"> Connect with me: </h1>
