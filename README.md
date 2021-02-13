@@ -24,6 +24,7 @@
 <a href="https://t.me/Mirzakhidov_m" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" alt="mirsaid" style="vertical-align:top; margin:4px" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="mirsaid" style="vertical-align:top; margin:4px"/></a>
 <a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
+	<a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -45,3 +46,17 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
+
+![Profile views](https://gpvc.arturio.dev/mirsaid-mirzohidov)
+
+
+## 📑 Check my blogs 
+
+<details> 
+ <summary> 😇 <b>Medium Published articles</b>: </summary>
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
+
+</details>
