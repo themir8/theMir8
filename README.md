@@ -25,11 +25,14 @@
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
-- 📫 How to reach me [Connect](#connect)
+- 📫 How to reach me [Connect with me](#connect-with-me)
 
-# Connect
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> 
+	
+# Connect with me: 
+
+</h3>
 <p align="center">
 <a href="https://t.me/Mirzakhidov_m" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" alt="mirsaid" style="vertical-align:top; margin:4px" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="mirsaid" style="vertical-align:top; margin:4px"/></a>
