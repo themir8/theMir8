@@ -60,10 +60,8 @@
 ## 📑 Check my blogs 
 
 <details> 
- <summary> 😇 <b>Medium Published articles</b>: </summary>
+ <summary> 😇 <b>Mirsaid.uz articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
+    <a target="_blank" href="https://mirsaiduz.pythonanywhere.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
 
 </details>
