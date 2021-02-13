@@ -39,7 +39,7 @@ and Databases (PostgreSql).
 </p>
 <hr>
 
-<details><summary align="center" style="font-size: 4rem;">Languages and Tools: </summary>
+<details><summary align="center" style="font-size:8rem;">Languages and Tools: </summary>
 	<p align="center">
     <br>
 
