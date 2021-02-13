@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
-- 📫 How to reach me [Connect with me section](#connect-with-me)
+- 📫 How to reach me [mirzohidovm8@gmail.com](#connect-with-me)
 
 
 <h1 align="center" id="connect-with-me"> Connect with me: </h1>
