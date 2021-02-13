@@ -53,15 +53,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&locale=en" alt="mirsaid-mirzohidov" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz" alt="mirsaid.uz" /></p>
+<a href="https://github.com/DigitalEdu-uz/DigitalEdu" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz" alt="mirsaid.uz" /></a>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu" alt="DigitalEdu" /></p>
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
-
+<a href="https://github.com/mirsaid-mirzohidov/mirsaid.uz" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu" alt="DigitalEdu" /></a>
+</p>
 
