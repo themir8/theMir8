@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirsaid-mirzohidov&show_icons=true&locale=en&layout=compact" alt="mirsaid-mirzohidov" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" alt="mirsaid-mirzohidov" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&locale=en" alt="mirsaid-mirzohidov" /></p>
 
@@ -60,3 +60,4 @@
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
 
 </details>
+
