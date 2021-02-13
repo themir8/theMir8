@@ -20,7 +20,6 @@
 
 </details>
 
-
 - 🌱 I’m currently learning Web Development Technologies in Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="45" height="45" /> and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="golang" width="45" height="45" />
  and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
 
