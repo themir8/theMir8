@@ -28,7 +28,7 @@
 - 📫 How to reach me [Connect with me section](#connect-with-me)
 
 
-<h3 align="center" id="connect-with-me"> Connect with me: </h3>
+<h1 align="center" id="connect-with-me"> Connect with me: </h1>
 
 <p align="center">
 <a href="https://t.me/Mirzakhidov_m" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" alt="mirsaid" style="vertical-align:top; margin:4px" /></a>
@@ -36,7 +36,7 @@
 <a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
 	<a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 	<p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
