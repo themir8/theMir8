@@ -15,11 +15,7 @@ and Databases (PostgreSql).
 🚀 Some of my main projects:
 
 <details> 
- <summary> 
-
- -  🔭 I’m currently working on a Projects in Django and another Project with Golang and Postgresql: 
-
-</summary>
+ <summary> -  🔭 I’m currently working on a Projects in Django and another Project with Golang and Postgresql: </summary>
 <br>
 	
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
