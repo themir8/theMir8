@@ -43,7 +43,6 @@
 <summary> <h3 align="center">Languages and Tools: </h3></summary>
 	<p align="center">
     <br>
-    <a target="_blank" href="https://mirsaiduz.pythonanywhere.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
