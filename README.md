@@ -21,37 +21,25 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mirsaid" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mirsaid" height="30" width="40" /></a>
+<a href="https://t.me/Mirzakhidov_m" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" alt="mirsaid" style="vertical-align:top; margin:4px" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="mirsaid" style="vertical-align:top; margin:4px"/></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mirsaid" height="30" width="40" /></a>
-<a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mirsaid.m8" height="30" width="40" /></a>
+<a href="https://instagram.com/mirsaid.m8" target="blank"><img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-	<p align="center"> 
-		<a href="https://python.org" target="_blank">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-		</a> 
-			<a href="https://djangoproject.com/" target="_blank"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/> 
-			</a> 
-			<a href="https://golang.org/" target="_blank"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
-			</a> 
-			<a href="#" target="_blank"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-			</a> 
-			<a href="https://www.postgresql.org/" target="_blank"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-			</a> 
-			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-			</a> 
-			<a href="https://ubuntu.com/" target="_blank"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
-			</a>
-		</p>
+	<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/go.png" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirsaid-mirzohidov&show_icons=true&locale=en&layout=compact" alt="mirsaid-mirzohidov" /></p>
 
