@@ -5,9 +5,12 @@
     <img alt="Follow mirsaid-mirzohidov" src="https://img.shields.io/static/v1?label=Follow&message=mirsaid-mirzohidov&style=for-the-badge&color=4A90E2&labelColor=222222" />
 
 <a href="https://t.me/theblog_uz">
-    <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" />
-
-</a></p>
+    <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
+<br>   
+<a href="https://docs.google.com/document/d/1y1hrd0H2b1DlRTMhE-K1Hm2kTMKIyfMmcaBnlIbuDpY/edit?usp=sharing">
+    <img alt="View My Resume" src="https://img.shields.io/static/v1?label=View&message=My-Resume&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
+    
+</p>
 
 - 🌱 I’m currently learning Web Development Technologies in Backend Django, Golang
 and Databases (PostgreSql).
