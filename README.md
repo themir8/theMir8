@@ -28,7 +28,6 @@ and Databases (PostgreSql).
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
-</details>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=blocknote)](https://github.com/mirsaid-mirzohidov/blocknote)
 </details>
