@@ -63,6 +63,12 @@ and Databases (PostgreSql).
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
+<hr>
 
+
+<img alt="" width="400" src="https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/main/github-metrics.svg">
+
+
+<hr>
 
 ![Metrics](https://metrics.lecoq.io/mirsaid-mirzohidov?template=classic&activity=1&followup=1&introduction=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&config.timezone=Asia%2FTashkent)
