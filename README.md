@@ -66,4 +66,3 @@ and Databases (PostgreSql).
 <hr>
 
 ![Metrics](https://metrics.lecoq.io/mirsaid-mirzohidov?template=classic&followup=1&introduction=1&languages=1&introduction.title=true&languages.ignored=html%2C%20css%2C%20Makefile&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTashkent)
-
