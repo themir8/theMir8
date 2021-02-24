@@ -65,4 +65,5 @@ and Databases (PostgreSql).
 
 <hr>
 
-![Metrics](https://metrics.lecoq.io/mirsaid-mirzohidov?template=classic&activity=1&followup=1&introduction=1&lines=1&languages=1&projects=1&pagespeed=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&languages.ignored=html%2C%20css%2C%20Makefile&languages.colors=github&languages.threshold=0%25&projects.limit=4&projects.repositories=mirsaid-mirzohidov%2Fmirsaid.uz%2C%20mirsaid-mirzohidov%2Fblocknote&projects.descriptions=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTashkent)
+![Metrics](https://metrics.lecoq.io/mirsaid-mirzohidov?template=classic&followup=1&introduction=1&languages=1&introduction.title=true&languages.ignored=html%2C%20css%2C%20Makefile&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTashkent)
+
