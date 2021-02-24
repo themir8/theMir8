@@ -19,7 +19,7 @@ jobs:
 
           # Options
           user: mirsaid-mirzohidov
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tashkent
           plugin_followup: yes
