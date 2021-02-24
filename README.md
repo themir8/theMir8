@@ -65,11 +65,4 @@ and Databases (PostgreSql).
 
 
 
-## 📑 Check my blogs 
-
-<details> 
- <summary> <b>Mirsaid.uz articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://mirsaiduz.pythonanywhere.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
-
-</details>
+![Metrics](https://metrics.lecoq.io/mirsaid-mirzohidov?template=classic&activity=1&followup=1&introduction=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&config.timezone=Asia%2FTashkent)
