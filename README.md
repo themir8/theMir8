@@ -63,4 +63,6 @@ and Databases (PostgreSql).
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsaid" alt="mirsaid-mirzohidov" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
