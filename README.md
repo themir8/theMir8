@@ -57,4 +57,8 @@ and Databases (PostgreSql).
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>
 
-![Metrics](https://metrics.lecoq.io/mirsaid-mirzohidov?template=terminal&followup=1&introduction=1&languages=1&introduction.title=true&languages.ignored=html%2C%20css%2C%20Makefile&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTashkent)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirsaid-mirzohidov&show_icons=true&locale=en&layout=compact" alt="mirsaid-mirzohidov" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&theme=dark" alt="mirsaid-mirzohidov" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
