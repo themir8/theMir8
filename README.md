@@ -67,6 +67,11 @@ and Databases (PostgreSql).
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 February, 2021 - 25 February, 2021
+
+Python                48 mins         ██████████████▒░░░░░░░░░░   56.80 % 
+HTML                  19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 % 
+Markdown              14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Sublime Text Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
