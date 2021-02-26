@@ -63,4 +63,4 @@ and Databases (PostgreSql).
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirsaid)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirsaid)](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov)
