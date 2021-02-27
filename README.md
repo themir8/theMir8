@@ -67,9 +67,10 @@ and Databases (PostgreSql).
 ```text
 Week: 19 February, 2021 - 26 February, 2021
 
-Python                48 mins         ██████████████▒░░░░░░░░░░   56.80 % 
-HTML                  19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 % 
-Markdown              14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Sublime Text Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+HTML       1 hr 57 mins    ███████████▒░░░░░░░░░░░░░   44.74 % 
+Python     1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+CSS        38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Markdown   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Text       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 <!--END_SECTION:waka-->
