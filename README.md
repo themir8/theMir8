@@ -17,7 +17,6 @@ and Databases (PostgreSql).
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
-- 📫 How to reach me [mirzohidovm8@gmail.com](#connect-with-me)
 
 🚀 Some of my main projects:
 
@@ -33,7 +32,7 @@ and Databases (PostgreSql).
 </details>
 
 
-<h1 id="connect-with-me"> Connect with me: </h1>
+<h1> 📫 Connect with me: </h1>
 
 <p>
 <a href="https://t.me/Mirzakhidov_m" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
@@ -51,13 +50,15 @@ and Databases (PostgreSql).
 	<img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&theme=dark" alt="mirsaid-mirzohidov" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
-
 
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&theme=dark" alt="mirsaid-mirzohidov" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
 
 
