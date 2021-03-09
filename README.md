@@ -62,10 +62,9 @@ and Databases (PostgreSql).
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
 
 
-<p  align="center">
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
 
 
 
