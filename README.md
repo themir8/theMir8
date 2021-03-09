@@ -37,10 +37,8 @@ and Databases (PostgreSql).
 <h1 id="connect-with-me"> Connect with me: </h1>
 
 <p>
-<a href="https://t.me/Mirzakhidov_m" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" alt="mirsaid" style="vertical-align:top; margin:4px" /></a>
-<a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" alt="mirsaid" style="vertical-align:top; margin:4px"/></a>
-<a href="https://instagram.com/mirsaid.m8" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px"/></a>
-	<a href="https://instagram.com/mirsaid.m8" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/streaming/youtube.png" alt="mirsaid.m8" style="vertical-align:top; margin:4px" /></a>
+<a href="https://t.me/Mirzakhidov_m" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
+<a href="mailto:mirzohidovm8@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 <hr>
 
