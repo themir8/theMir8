@@ -33,7 +33,6 @@ and Databases (PostgreSql).
 </details>
 
 
-
 <h1 id="connect-with-me"> Connect with me: </h1>
 
 <p>
@@ -73,3 +72,6 @@ Makefile   24 mins         █▓░░░░░░░░░░░░░░░�
 Text       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 <!--END_SECTION:waka-->
+
+
+<img src="https://img.icons8.com/plasticine/100/000000/filled-star.png"/>
