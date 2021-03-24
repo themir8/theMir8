@@ -66,10 +66,10 @@ and Databases (PostgreSql).
 ```text
 Week: 16 March, 2021 - 23 March, 2021
 
-Python       5 hrs 22 mins   ████████████████▒░░░░░░░░   65.34 % 
-HTML         2 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 % 
-Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python       3 hrs 54 mins   ████████████████▓░░░░░░░░   66.80 % 
+HTML         1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.08 % 
+Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 <!--END_SECTION:waka-->
 
