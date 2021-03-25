@@ -64,7 +64,7 @@ and Databases (PostgreSql).
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2021 - 23 March, 2021
+Week: 17 March, 2021 - 24 March, 2021
 
 Python       3 hrs 54 mins   ████████████████▓░░░░░░░░   66.80 % 
 HTML         1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.08 % 
