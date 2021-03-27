@@ -1,6 +1,8 @@
+<img align="right" alt="mirzohidovmirsaid.uz" src="./qrcode_mirzohidovmirsaid.uz.png" width="200px" />
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mirsaid</h1>
 <h3>Back End developer in Uzbekistan</h3>
-<h4>QR code to My Resume <img alt="mirzohidovmirsaid.uz" src="./qrcode_mirzohidovmirsaid.uz.png" /></h4>
+<h4>QR code to My Resume</h4>
+
 <p><a href="https://github.com/mirsaid-mirzohidov">
     <img alt="Follow mirsaid-mirzohidov" src="https://img.shields.io/static/v1?label=Follow&message=mirsaid-mirzohidov&style=for-the-badge&color=4A90E2&labelColor=222222" />
 
