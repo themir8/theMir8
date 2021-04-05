@@ -65,10 +65,10 @@ and Databases (PostgreSql).
 ```text
 Week: 28 March, 2021 - 04 April, 2021
 
-Python       4 hrs 34 mins   ███████████████▓░░░░░░░░░   62.77 % 
-HTML         2 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   35.92 % 
-EJS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python       5 hrs           ████████████████░░░░░░░░░   64.12 % 
+HTML         2 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.58 % 
+EJS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 
