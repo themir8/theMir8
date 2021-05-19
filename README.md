@@ -63,7 +63,7 @@ and Databases (PostgreSql).
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 May, 2021 - 17 May, 2021
+Week: 11 May, 2021 - 18 May, 2021
 
 Python            8 hrs 21 mins   ███████████████████▒░░░░░   77.49 % 
 Gettext Catalog   1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
