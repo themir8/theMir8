@@ -65,11 +65,11 @@ and Databases (PostgreSql).
 ```text
 Week: 23 May, 2021 - 30 May, 2021
 
-Python            7 hrs 4 mins    ███████████████████████░░   91.59 % 
-Markdown          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Gettext Catalog   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Git Config        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Text              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Python            8 hrs 33 mins   ███████████████████████░░   91.91 % 
+Markdown          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Gettext Catalog   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Git Config        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Bash              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
