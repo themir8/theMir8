@@ -22,12 +22,9 @@ and Databases (PostgreSql).
 <details> 
  <summary> -  🔭 I’m currently working on a Projects in Django and another Project with Golang and Postgresql: </summary>
 <br>
-	
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DigitalEdu-uz&repo=DigitalEdu)](https://github.com/DigitalEdu-uz/DigitalEdu)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=mirsaid.uz)](https://github.com/mirsaid-mirzohidov/mirsaid.uz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=blog-bot&border_radius=20)](https://github.com/mirsaid-mirzohidov/blog-bot)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=blocknote)](https://github.com/mirsaid-mirzohidov/blocknote)
 </details>
 
 
