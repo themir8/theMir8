@@ -63,13 +63,13 @@ and Databases (PostgreSql).
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
+Week: 17 June, 2021 - 23 June, 2021
 
-Python            15 hrs 43 mins  ██████████████████████░░░   88.01 % 
-HTML              42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Other             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Gettext Catalog   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Bash              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Python       6 hrs 45 mins   █████████████████████░░░░   84.19 % 
+HTML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Other        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
