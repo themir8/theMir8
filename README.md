@@ -50,14 +50,14 @@ and Databases (PostgreSql).
 </p>
 
 
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"></br>
 
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&theme=dark" alt="mirsaid-mirzohidov" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&" alt="mirsaid-mirzohidov" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&theme=dark" alt="mirsaid-mirzohidov" /></p>
 
 
 
