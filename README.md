@@ -40,7 +40,7 @@ and Databases (PostgreSql).
 <p>
 	<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
 	<img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
-	<img src="https://img.icons8.com/color/96/000000/golang.png"/>
+	<img height=110 src="./GOLANG.png"/>
 	<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 	<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
 	<img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
