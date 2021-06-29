@@ -36,8 +36,7 @@ and Databases (PostgreSql).
 </p>
 <hr>
 
-<h3>💻 Core Stack:</h3>
-<h3 align="right" height=110>Mainly focused on Backend</h3>
+<h1>💻 Core Stack:</h1>
 <p>
 	<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
 	<img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
@@ -45,7 +44,7 @@ and Databases (PostgreSql).
 	<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 	
 </p>
-
+<hr>
 
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
