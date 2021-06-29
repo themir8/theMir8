@@ -44,6 +44,8 @@ and Databases (PostgreSql).
 	<img height=110 src="./GOLANG.png"/>
 	<img src="https://img.icons8.com/material-outlined/96/ffffff/menu-2.png"/>
 	<img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
+	<img height=96 src="./logo-teal.png"/>
+	<img height=96 src="./FLASK.png"/>
 	<img src="https://img.icons8.com/material-outlined/96/ffffff/menu-2.png"/>
 	<img src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
 	<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
