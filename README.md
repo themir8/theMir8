@@ -69,8 +69,9 @@ and Databases (PostgreSql).
 ```text
 Week: 27 June, 2021 - 03 July, 2021
 
-Python   19 mins         █████████████████░░░░░░░░   68.51 % 
-Go       9 mins          ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Go       2 hrs 48 mins   ███████████████████▓░░░░░   79.12 % 
+Python   43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 
