@@ -67,10 +67,10 @@ and Databases (PostgreSql).
 ```text
 Week: 05 July, 2021 - 11 July, 2021
 
-Go           5 hrs 7 mins    ███████████████▒░░░░░░░░░   60.79 % 
-Python       3 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.43 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Go           5 hrs 3 mins    ███████████████░░░░░░░░░░   60.54 % 
+Python       3 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.68 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 
