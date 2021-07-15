@@ -52,28 +52,5 @@ and Databases (PostgreSql).
 </p>
 <hr>
 
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mirsaid-mirzohidov/mirsaid-mirzohidov/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"></br>
-
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=mirsaid-mirzohidov&show_icons=true&theme=dark" alt="mirsaid-mirzohidov" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirsaid-mirzohidov&theme=dark" alt="mirsaid-mirzohidov" /></p>
-
-
-
-<!--START_SECTION:waka-->
-```text
-Week: 08 July, 2021 - 14 July, 2021
-
-Go           4 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.76 % 
-Python       2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Bash         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-```
-<!--END_SECTION:waka-->
-
 
 <img src="https://img.icons8.com/plasticine/100/000000/filled-star.png"/>
