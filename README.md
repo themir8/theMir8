@@ -6,7 +6,7 @@
 <p><a href="https://github.com/mirsaid-mirzohidov">
     <img alt="Follow mirsaid-mirzohidov" src="https://img.shields.io/static/v1?label=Follow&message=mirsaid-mirzohidov&style=for-the-badge&color=4A90E2&labelColor=222222" />
 
-<a href="https://t.me/theblog_uz">
+<a href="https://t.me/joinchat/R4UJSKvmT-0FFiet">
     <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a> 
     
 </p>
