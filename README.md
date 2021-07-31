@@ -53,4 +53,4 @@ and Databases (PostgreSql).
 <hr>
 
 
-<img src="https://img.icons8.com/plasticine/100/000000/filled-star.png"/>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
