@@ -13,8 +13,7 @@
 
 - 💻 Core Stack: Python, Golang
 
-- 🌱 I’m currently learning Web Development Technologies in Backend Golang + Graphql, Golang + Python/Django, C++
-and Databases (PostgreSql).
+- 🌱 I’m currently learning Web Development Technologies in Backend Golang + Graphql, Golang + Python/Django and Databases (PostgreSql).
 
 - 💬 Ask me about **Python, Django or any tech related stuff**
 
