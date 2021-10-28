@@ -32,7 +32,7 @@
 <h1> 📫 Connect with me: </h1>
 
 <p>
-<a href="https://t.me/theMir8" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
+<a href="https://t.me/multibola" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
 <a href="mailto:mirzohidovm8@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 <hr>
