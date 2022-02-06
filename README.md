@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Web Development Technologies in Backend Golang + Graphql, Golang + Python/Django and Databases (PostgreSql).
 
-- 💬 Ask me about **Python, Django or any tech related stuff**
+<!-- - 💬 Ask me about **Python, Django or any tech related stuff**
 
 
 🚀 Some of my main projects:
@@ -26,7 +26,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=blog-bot&border_radius=20)](https://github.com/mirsaid-mirzohidov/blog-bot)
 
-</details>
+</details> -->
 
 
 <h1> 📫 Connect with me: </h1>
