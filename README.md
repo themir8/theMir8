@@ -34,9 +34,9 @@
 <a href="https://t.me/multibola" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
 <a href="mailto:mirzohidovm8@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
-<hr>
+<!-- <hr> -->
 
-<h1>💻 Languages and Tools:</h1>
+<!-- <h1>💻 Languages and Tools:</h1>
 <p>
 	<img src="https://img.icons8.com/dusk/96/000000/python.png"/>
 	<img height=110 src="./GOLANG.png"/>
@@ -47,7 +47,7 @@
 	<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 	<img src="https://img.icons8.com/color/96/000000/docker.png"/>
 	
-</p>
+</p> -->
 <hr>
 
 
