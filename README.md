@@ -28,7 +28,7 @@
 </details> -->
 
 
-<h1> 📫 Connect with me: </h1>
+<h1> 📫 How to reach me: </h1>
 
 <p>
 <a href="https://t.me/multibola" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
