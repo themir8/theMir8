@@ -10,46 +10,6 @@
     
 </p>
 
-- 💻 Core Stack: Python, Golang
-
-- 🌱 I’m currently learning Web Development Technologies in Backend Golang + Graphql, Golang + Python/Django and Databases (PostgreSql).
-
-<!-- - 💬 Ask me about **Python, Django or any tech related stuff**
-
-
-🚀 Some of my main projects:
-
-<details> 
- <summary> -  🔭 I’m currently working on a Projects in Django and another Project with Golang and Postgresql: </summary>
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirsaid-mirzohidov&repo=blog-bot&border_radius=20)](https://github.com/mirsaid-mirzohidov/blog-bot)
-
-</details> -->
-
-
-<h1> 📫 How to reach me: </h1>
-
-<p>
-<a href="https://t.me/multibola" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
-<a href="mailto:mirzohidovm8@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
-</p>
-<!-- <hr> -->
-
-<!-- <h1>💻 Languages and Tools:</h1>
-<p>
-	<img src="https://img.icons8.com/dusk/96/000000/python.png"/>
-	<img height=110 src="./GOLANG.png"/>
-	<img src="https://img.icons8.com/material-outlined/96/ffffff/menu-2.png"/>
-	<img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
-	<img src="https://img.icons8.com/material-outlined/96/ffffff/menu-2.png"/>
-	<img src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
-	<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
-	<img src="https://img.icons8.com/color/96/000000/docker.png"/>
-	
-</p> -->
-<hr>
-
 
 ![Snake animation](https://raw.githubusercontent.com/theMir8/theMir8/output/github-contribution-grid-snake.svg)
 
